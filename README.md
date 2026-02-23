@@ -1,1 +1,8 @@
-# amcgladd.github.io
+# Manual Testing
+
+# Automated Testing
+
+# API Testing
+
+# Database Testing
+
